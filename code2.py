@@ -1,2 +1,4 @@
 a=int(input("Enter any number "))
-print(a)
+b=int(input("Enter any number"))
+sum=a+b
+print(sum)
